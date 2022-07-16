@@ -1,0 +1,5 @@
+F:\randcolgen\colgen\colgen\builds\colgen.exe
+F:\randcolgen\colgen\colgen\builds\colgen.dll
+F:\randcolgen\colgen\colgen\builds\colgen.deps.json
+F:\randcolgen\colgen\colgen\builds\colgen.runtimeconfig.json
+F:\randcolgen\colgen\colgen\builds\colgen.pdb

@@ -1,0 +1,15 @@
+F:\randcolgen\colgen\colgen\bin\Release\netcoreapp3.1\colgen.exe
+F:\randcolgen\colgen\colgen\bin\Release\netcoreapp3.1\colgen.deps.json
+F:\randcolgen\colgen\colgen\bin\Release\netcoreapp3.1\colgen.runtimeconfig.json
+F:\randcolgen\colgen\colgen\bin\Release\netcoreapp3.1\colgen.runtimeconfig.dev.json
+F:\randcolgen\colgen\colgen\bin\Release\netcoreapp3.1\colgen.dll
+F:\randcolgen\colgen\colgen\bin\Release\netcoreapp3.1\colgen.pdb
+F:\randcolgen\colgen\colgen\obj\Release\netcoreapp3.1\colgen.csprojAssemblyReference.cache
+F:\randcolgen\colgen\colgen\obj\Release\netcoreapp3.1\colgen.Form1.resources
+F:\randcolgen\colgen\colgen\obj\Release\netcoreapp3.1\colgen.csproj.GenerateResource.cache
+F:\randcolgen\colgen\colgen\obj\Release\netcoreapp3.1\colgen.AssemblyInfoInputs.cache
+F:\randcolgen\colgen\colgen\obj\Release\netcoreapp3.1\colgen.AssemblyInfo.cs
+F:\randcolgen\colgen\colgen\obj\Release\netcoreapp3.1\colgen.csproj.CoreCompileInputs.cache
+F:\randcolgen\colgen\colgen\obj\Release\netcoreapp3.1\colgen.dll
+F:\randcolgen\colgen\colgen\obj\Release\netcoreapp3.1\colgen.pdb
+F:\randcolgen\colgen\colgen\obj\Release\netcoreapp3.1\colgen.genruntimeconfig.cache
